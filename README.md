@@ -16,3 +16,7 @@ It features the following modules:
 * Pagination
   * Change between pages with appropriate page numbers showing  
   ![Alt Text](https://media.giphy.com/media/jhwrPt9Tp5WtNHvthQ/giphy.gif)
+
+* Integration capabilities
+  * Demo with Lego products
+  [![](http://img.youtube.com/vi/M17mCngyk60/0.jpg)](http://www.youtube.com/watch?v=M17mCngyk60 "")
