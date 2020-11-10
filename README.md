@@ -5,7 +5,9 @@ This microservice is a reviews module for any product page.
 It features the following modules:
 
 * Product Review Summary
-  *![Image](https://i.imgur.com/Q7GFE3F.png)
+  * Shows number of reviews for a given product
+  * Star ratings rounding to the nearest half
+  ![Image](https://i.imgur.com/Q7GFE3F.png)
   
 * Filtering
   * Click on each filter to add or delete  
