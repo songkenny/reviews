@@ -5,7 +5,7 @@ This microservice is a reviews module for any product page.
 It features the following modules:
 
 * Product Review Summary
-  *![Imgur](https://imgur.com/Q7GFE3F)
+  *[Imgur](https://imgur.com/Q7GFE3F)
   
 * Filtering
   * Click on each filter to add or delete  
