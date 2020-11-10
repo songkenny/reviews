@@ -8,9 +8,9 @@ It features the following modules:
   *
   
 * Filtering
-  * Click on each filter to add or delete 
-  ![Alt Text](https://media.giphy.com/media/VCb5QElafKGeHYjvtp/giphy.gif)
+  * Click on each filter to add or delete  
+  ![Alt Text](https://media.giphy.com/media/VCb5QElafKGeHYjvtp/giphy.gif)  
   
 * Pagination
-  * Change between pages with appropriate page numbers showing
+  * Change between pages with appropriate page numbers showing  
   ![Alt Text](https://media.giphy.com/media/jhwrPt9Tp5WtNHvthQ/giphy.gif)
